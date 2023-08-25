@@ -1,32 +1,27 @@
 export const dados = [
   {
     id: 1,
-    data: "23/06/2023 07:00:00",
-    titulo: "Aula",
-    mensagem: "Componentes"
+    nome: "Notícia de Lançamento de Produto",
+    conteudo: "A Empresa X Anuncia o Novo Smartphone Y: A Empresa X revelou seu mais recente lançamento, o Smartphone Y, equipado com uma câmera de alta resolução, processador de últimageração e recursos de inteligência artificial. Saiba mais sobre as especificações e recursos deste dispositivoinovador."
   },
   {
     id: 2,
-    data: "23/06/2023 07:10:00",
-    titulo: "Aula Web",
-    mensagem: "Serviços"
+    nome: "Análise de Gadget",
+    conteudo: "Análise do Fone de Ouvido Z: Testamos o Fone de Ouvido Z para descobrir se ele entrega o som de alta qualidade prometido pelo fabricante. Desde o cancelamento de ruído até a vida útil da bateria, examinamos todos os aspectos deste acessório."
   },
   {
     id: 3,
-    data: "23/06/2023 07:20:00",
-    titulo: "Aula React",
-    mensagem: "Rotas"
+    nome: "Artigo sobre Inteligência Artificial",
+    conteudo: "O Papel da Inteligência Artificial na Medicina: Exploramos como a IA está revolucionando o campo médico, desde diagnósticos mais precisos até a descoberta de tratamentos personalizados. Veja exemplos de como os algoritmos estão transformando a saúde."
   },
   {
     id: 4,
-    data: "23/06/2023 07:30:00",
-    titulo: "Aula React Web",
-    mensagem: "Estilos"
+    nome: "Notícia de Lançamento de Produto",
+    conteudo: "A Empresa X Anuncia o Novo Smartphone Y: A Empresa X revelou seu mais recente lançamento, o Smartphone Y, equipado com uma câmera de alta resolução, processador de últimageração e recursos de inteligência artificial. Saiba mais sobre as especificações e recursos deste dispositivoinovador."
   },
   {
     id: 5,
-    data: "23/06/2023 07:30:00",
-    titulo: "Aula React Web",
-    mensagem: "Estilos"
+    nome: "Notícia de Lançamento de Produto",
+    conteudo: "A Empresa X Anuncia o Novo Smartphone Y: A Empresa X revelou seu mais recente lançamento, o Smartphone Y, equipado com uma câmera de alta resolução, processador de últimageração e recursos de inteligência artificial. Saiba mais sobre as especificações e recursos deste dispositivoinovador."
   },
 ]
